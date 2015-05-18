@@ -1,0 +1,5 @@
+There are two philosophies behind this project.  Open source and open testing.
+
+As a whole, there should be transparency within the field of forensic science.  Fair and just decisions, imply a certain level of trust in the evidence used to reach a conclusion.  As a result of this thinking, I decided to release this project as open source.  This means that anyone can examine the internals of the framework, and see exactly how it operates.  By being able to examine exactly what a specific tool does, we can place more trust in the evidence provided by a tool.  In addition, we can understand the limitations of a tool, so our interpretations of the output of the tool (evidence) are more likely to be correct.
+
+Another aspect of forensic science, that you don't hear much about in digital forensics is testing.  Testing of equipment, including software, is at a minimum highly recommended.  To keep inline with this philosophy, I've released the unit tests for the framework.  Anyone can examine these unit tests, to get an understanding of how the framework is tested, and some of the limitations of the framework.
